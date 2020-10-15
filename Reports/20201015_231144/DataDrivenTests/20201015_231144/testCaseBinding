@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/tcDataDriven - Iteration 1","testCaseId":"Test Cases/tcDataDriven","bindedValues":{"password":"\u0027ThisIsNotAPassword\u0027","url":"\u0027http://demoaut.katalon.com/\u0027","username":"\u0027John Doe\u0027"}}
+{"testCaseName":"Test Cases/tcDataDriven - Iteration 2","testCaseId":"Test Cases/tcDataDriven","bindedValues":{"password":"\u0027ngan123\u0027","url":"\u0027http://demoaut.katalon.com/\u0027","username":"\u0027ngan\u0027"}}

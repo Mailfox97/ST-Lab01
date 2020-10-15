@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tcDataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d558335-70c2-43c9-a08e-9aa9b4abf0c8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>695acc10-a97d-4592-ab0c-13e321d2af41</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a590a2e1-62c3-4ade-9a8a-fd9fab957c6f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d85c7838-5073-4add-9008-fdd836c73540</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
